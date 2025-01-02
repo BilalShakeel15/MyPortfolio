@@ -1,0 +1,17 @@
+.sizefont{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.sizefont:hover{
+    text-decoration: underline;
+    color: rgb(182, 74, 182);
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+
