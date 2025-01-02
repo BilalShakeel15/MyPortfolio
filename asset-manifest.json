@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.1ba45e4a.css",
+    "main.js": "/MyPortfolio/static/js/main.b581e076.js",
+    "static/js/156.76d4ed6a.chunk.js": "/MyPortfolio/static/js/156.76d4ed6a.chunk.js",
+    "static/media/Bilal Shakeel Resume.pdf": "/MyPortfolio/static/media/Bilal Shakeel Resume.bce095c79c93035eed5d.pdf",
+    "static/media/My pic.jpg": "/MyPortfolio/static/media/My pic.456226cab79ff5011d87.jpg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.1ba45e4a.css.map": "/MyPortfolio/static/css/main.1ba45e4a.css.map",
+    "main.b581e076.js.map": "/MyPortfolio/static/js/main.b581e076.js.map",
+    "156.76d4ed6a.chunk.js.map": "/MyPortfolio/static/js/156.76d4ed6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba45e4a.css",
+    "static/js/main.b581e076.js"
+  ]
+}
